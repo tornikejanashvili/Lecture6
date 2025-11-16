@@ -70,6 +70,7 @@ body {
   grid-row-end: 3;
   border-radius: 8px;
   box-shadow: 40px 60px 50px -47px #48556a3f;
+  row-gap: 24px;
 }
 
 .box1text {
@@ -86,13 +87,12 @@ body {
 .box1head {
   color: #ffffff;
   font-size: 20px;
-  margin: 32px;
   font-weight: 600;
   line-height: 100%;
   margin-top: 18px;
   margin-left: 32px;
   margin-right: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .box1author {
   display: flex;
@@ -130,13 +130,12 @@ body {
 .box2head {
   color: #ffffff;
   font-size: 20px;
-  margin: 32px;
   font-weight: 600;
   line-height: 100%;
   margin-top: 18px;
   margin-left: 32px;
   margin-right: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .box2author {
   display: flex;
@@ -174,13 +173,12 @@ body {
 .box3head {
   color: #48556a;
   font-size: 20px;
-  margin: 32px;
   font-weight: 600;
   line-height: 100%;
   margin-top: 18px;
   margin-left: 32px;
   margin-right: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .box3author {
   display: flex;
@@ -218,13 +216,12 @@ body {
 .box4head {
   color: #48556a;
   font-size: 20px;
-  margin: 32px;
   font-weight: 600;
   line-height: 100%;
   margin-top: 18px;
   margin-left: 32px;
   margin-right: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .box4author {
   display: flex;
@@ -249,7 +246,7 @@ body {
 }
 
 .box5text {
-  color: #48556a;
+  color: #ffffff;
   font-size: 13px;
   opacity: 70%;
   margin-left: 32px;
@@ -257,18 +254,21 @@ body {
   margin-bottom: 32px;
   font-weight: 500;
   line-height: 18px;
+  align-items: center;
+  justify-content: center;
+  width: 476px;
+  height: 72px;
 }
 
 .box5head {
   color: #ecf2f8;
   font-size: 20px;
-  margin: 32px;
   font-weight: 600;
   line-height: 100%;
   margin-top: 18px;
   margin-left: 32px;
   margin-right: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .box5author {
   display: flex;
